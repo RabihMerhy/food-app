@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Food App",
+    "slug": "food-app",
+    "scheme": "foodapp",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": { "image": "./assets/splash.png", "resizeMode": "contain", "backgroundColor": "#FFF5E6" },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": { "adaptiveIcon": { "foregroundImage": "./assets/adaptive-icon.png", "backgroundColor": "#FFF5E6" } },
+    "web": { "bundler": "metro" }
+  }
+}
+
